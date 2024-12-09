@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Maruti G! I'm a 3rd-year engineering student passionate about Python and cybersecurity.
+👋 Hi, I'm Maruti G! I'm a 3rd-year engineering student passionate about Python, java and cybersecurity.
 
 
 ## 🌐 Socials:
